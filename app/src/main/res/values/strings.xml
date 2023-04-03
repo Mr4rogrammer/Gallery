@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZED Gallery</string>
+    <string name="no_data_found">No data found. \nor\nFetching data from server.</string>
+</resources>
