@@ -1,6 +1,5 @@
 package com.zeddigital.gallary.View
 
-import android.opengl.Visibility
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView

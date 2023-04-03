@@ -1,10 +1,9 @@
 package com.zeddigital.gallary.View
 
 import android.content.Intent
-import android.os.Build
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.mrprogrammer.mrshop.Utils.CommonFunctions
 import com.zeddigital.gallary.R
